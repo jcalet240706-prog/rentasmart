@@ -14,7 +14,8 @@ Cita: Aptología (2026). *Precios de renta y venta de vivienda por colonia en M�
 - `src/pipeline.py`: carga, filtrado, depuración, split por colonia, regresión y métricas.
 - `src/build_assets.py`: prepara los datos y la página local del dashboard.
 - `src/expand_fase3_notebook.py`: reconstruye el notebook ampliado.
-- `dashboard/index.html`: tablero interactivo local. Abrir en navegador; no está publicado en línea.
+- `dashboard/index.html`: tablero interactivo estático local.
+- `streamlit_app.py`: aplicación web Streamlit para explorar filtros, gráficos, métricas y tablas.
 
 ## Reproducir
 Requiere Python 3.10 o posterior. Las dependencias de análisis, gráficos e interacción están en `requirements.txt`.
@@ -25,7 +26,7 @@ python src/pipeline.py
 python src/build_assets.py
 ```
 
-Abra `dashboard/index.html` en un navegador. Para el notebook, abra `notebooks/RentaSmart_Fase3.ipynb` desde la raíz del proyecto y ejecute las celdas en orden. Los filtros permiten seleccionar ciudad, operación, tipo de inmueble, texto de zona, mínimo de anuncios y rango de renta. Si el entorno no muestra controles interactivos, edite los valores de respaldo en la celda de filtros y vuelva a ejecutarla.
+Ejecute `streamlit run streamlit_app.py` para abrir la aplicación web local. Para el notebook, abra `notebooks/RentaSmart_Fase3.ipynb` desde la raíz del proyecto y ejecute las celdas en orden. Los filtros permiten seleccionar ciudad, operación, tipo de inmueble, texto de zona, mínimo de anuncios y rango de renta.
 
 ## Resultados de esta ejecución
 248 filas válidas; 197 zonas; 200 filas de entrenamiento y 48 de prueba. Separamos por zona para que ninguna aparezca en ambos conjuntos. El OLS usa log(superficie mediana) y tipo de inmueble para explicar log(renta mediana). Resultado en prueba: R²=0.796, MAE=8,907 MXN, RMSE=13,139 MXN. La línea base de mediana obtiene MAE=20,130 MXN. Estos valores evalúan celdas agregadas, no anuncios individuales.
@@ -37,7 +38,7 @@ Se identificaron 8 filas sin superficie mediana y se excluyeron por ser necesari
 - La fuente cubre varios portales y sus anuncios disponibles; no representa todo el mercado ni corrige la menor presencia digital de ciertas zonas.
 - La fila analítica es zona × tipo y se publica solo donde hay al menos cinco anuncios subyacentes.
 - El modelo es experimental, no causal y no se recomienda usar para fijar precios ni decisiones de acceso a vivienda.
-- La app está preparada localmente. Falta publicarla en Streamlit u otro servicio para obtener un enlace público.
+- La app Streamlit está preparada localmente. Para publicarla, suba el contenido del repositorio a GitHub y seleccione `streamlit_app.py` como archivo principal en Streamlit Community Cloud.
 - Falta subir este directorio a GitHub y otorgar acceso al docente si el repositorio queda privado.
 
 ## Nota de equipo
