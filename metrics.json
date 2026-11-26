@@ -1,0 +1,37 @@
+{
+  "rows_raw_scope": 256,
+  "rows_clean": 248,
+  "zones": 197,
+  "train_rows": 200,
+  "test_rows": 48,
+  "test_zones": 40,
+  "target": "Mediana de renta mensual anunciada por colonia y tipo (MXN)",
+  "model": "OLS en log(renta) con log(superficie mediana) y tipo de inmueble; split por colonia",
+  "R2": 0.7959389322112406,
+  "MAE_MXN": 8907.067566156737,
+  "RMSE_MXN": 13139.206145701717,
+  "baseline_median_MAE_MXN": 20130.1875,
+  "outlier_fences_MXN": [
+    -26673.875,
+    103625.125
+  ],
+  "outliers_flagged_retained": 17,
+  "missing_counts_raw_scope": {
+    "zona": 0,
+    "tipo": 0,
+    "avisos": 0,
+    "mediana": 0,
+    "mediana_area_m2": 8
+  },
+  "duplicates_removed": 0,
+  "coefficients": [
+    10.531421452309797,
+    0.6944309951815024,
+    -0.27174897267733156
+  ],
+  "log_area_mean": 4.864573880196179,
+  "log_area_sd": 0.7165644999061895,
+  "train_rent_median_MXN": 29975.0,
+  "test_actual_median_MXN": 31750.0,
+  "test_prediction_median_MXN": 26457.44331173801
+}

@@ -1,0 +1,249 @@
+﻿pais,ciudad,zona,operacion,tipo,avisos,mediana,p25,p75,mediana_m2,mediana_area_m2,moneda,fecha_corte,atipico_iqr,log_area,log_renta
+mx,Ciudad de México,Acacias,alquiler,departamento,16,28050,25000,30125,312.0,90.0,MXN,2026-11-22,False,4.499809670330265,10.241743910950843
+mx,Ciudad de México,Actipan,alquiler,departamento,8,25000,23875,27750,291.0,97.0,MXN,2026-11-22,False,4.574710978503383,10.126631103850338
+mx,Ciudad de México,Agrícola Oriental,alquiler,departamento,7,10900,9500,11750,177.0,64.0,MXN,2026-11-22,False,4.1588830833596715,9.296518068217235
+mx,Ciudad de México,Agrícola Pantitlan,alquiler,departamento,5,9800,9000,11000,183.0,55.0,MXN,2026-11-22,False,4.007333185232471,9.190137664658664
+mx,Ciudad de México,Ahuehuetes Anahuac,alquiler,departamento,29,30000,24000,34000,357.0,81.0,MXN,2026-11-22,False,4.394449154672439,10.308952660644293
+mx,Ciudad de México,Alamos,alquiler,departamento,16,16500,13850,21363,285.0,61.0,MXN,2026-11-22,False,4.110873864173311,9.711115659888671
+mx,Ciudad de México,Ampliación Estado de Hidalgo,alquiler,departamento,56,26000,18004,31500,243.0,103.0,MXN,2026-11-22,False,4.634728988229636,10.165851817003619
+mx,Ciudad de México,Ampliación Granada,alquiler,departamento,224,43000,35908,63000,480.0,100.0,MXN,2026-11-22,False,4.605170185988092,10.668955394675699
+mx,Ciudad de México,Ampliación Napoles,alquiler,departamento,13,26000,24900,32000,286.0,90.0,MXN,2026-11-22,False,4.499809670330265,10.165851817003619
+mx,Ciudad de México,Anahuac I Sección,alquiler,departamento,47,32000,25500,41250,433.0,75.0,MXN,2026-11-22,False,4.31748811353631,10.373491181781864
+mx,Ciudad de México,Anáhuac I Sección,alquiler,departamento,39,30000,23750,39500,360.0,85.0,MXN,2026-11-22,False,4.442651256490317,10.308952660644293
+mx,Ciudad de México,Anahuac II Sección,alquiler,departamento,16,22750,18750,29750,312.0,65.0,MXN,2026-11-22,False,4.174387269895637,10.032320424379096
+mx,Ciudad de México,Anahuac,alquiler,departamento,11,23000,17150,32750,322.0,56.0,MXN,2026-11-22,False,4.02535169073515,10.043249494911286
+mx,Ciudad de México,Anzures,alquiler,departamento,27,32000,25000,41000,420.0,68.0,MXN,2026-11-22,False,4.219507705176107,10.373491181781864
+mx,Ciudad de México,Anzures,alquiler,casa,28,152500,72250,219750,300.0,512.0,MXN,2026-11-22,True,6.238324625039508,11.934919875029603
+mx,Ciudad de México,Argentina Poniente,alquiler,departamento,17,16903,14500,19906,236.0,67.0,MXN,2026-11-22,False,4.204692619390966,9.735246399950178
+mx,Ciudad de México,Asturias,alquiler,departamento,6,13600,11738,15050,214.0,64.0,MXN,2026-11-22,False,4.1588830833596715,9.517825071724143
+mx,Ciudad de México,Atlamaya,alquiler,departamento,10,29950,26500,32750,287.0,108.0,MXN,2026-11-22,False,4.68213122712422,10.307284603543595
+mx,Ciudad de México,Atlamaya,alquiler,casa,6,68000,61250,77000,163.0,393.0,MXN,2026-11-22,False,5.973809611869261,11.127262984158243
+mx,Ciudad de México,Barrio Santa Catarina,alquiler,casa,7,73000,65750,87500,256.0,276.0,MXN,2026-11-22,False,5.62040086571715,11.198214720130528
+mx,Ciudad de México,Bosque De Las Lomas,alquiler,departamento,17,58000,26992,125000,294.0,280.0,MXN,2026-11-22,False,5.634789603169249,10.968198289528557
+mx,Ciudad de México,Bosque De Las Lomas,alquiler,casa,28,130000,120000,180000,220.0,600.0,MXN,2026-11-22,True,6.396929655216146,11.77528972943772
+mx,Ciudad de México,Bosques de las Lomas,alquiler,departamento,26,66000,28875,95000,267.0,280.0,MXN,2026-11-22,False,5.634789603169249,11.097410021008562
+mx,Ciudad de México,Bosques De Las Lomas,alquiler,departamento,40,75000,54488,98750,231.0,330.0,MXN,2026-11-22,False,5.799092654460526,11.225243392518447
+mx,Ciudad de México,Bosques de las Lomas,alquiler,casa,24,132500,107500,150000,209.0,616.0,MXN,2026-11-22,True,6.423246963533519,11.794337924408413
+mx,Ciudad de México,Bosques De Las Lomas,alquiler,casa,16,137500,88000,160000,195.0,530.0,MXN,2026-11-22,True,6.272877006546167,11.831379196088763
+mx,Ciudad de México,Buenavista,alquiler,departamento,10,19000,12625,19875,308.0,53.0,MXN,2026-11-22,False,3.970291913552122,9.852194258148577
+mx,Ciudad de México,Campestre Churubusco,alquiler,departamento,6,18000,15500,19750,398.0,52.0,MXN,2026-11-22,False,3.9512437185814275,9.798127036878302
+mx,Ciudad de México,Campestre Palo Alto,alquiler,departamento,6,30250,24250,48250,282.0,127.0,MXN,2026-11-22,False,4.844187086458591,10.317251463458987
+mx,Ciudad de México,Carola,alquiler,departamento,23,19900,17800,21750,283.0,65.0,MXN,2026-11-22,False,4.174387269895637,9.898475010712584
+mx,Ciudad de México,Centro De La Ciudad De México Area 1,alquiler,departamento,23,20000,16975,22500,347.0,60.0,MXN,2026-11-22,False,4.0943445622221,9.903487552536127
+mx,Ciudad de México,Centro De La Ciudad De México Area 2,alquiler,departamento,6,16000,15000,18500,273.0,59.0,MXN,2026-11-22,False,4.07753744390572,9.680344001221918
+mx,Ciudad de México,Centro De La Ciudad De México Area 4,alquiler,departamento,6,20250,18750,24375,354.0,60.0,MXN,2026-11-22,False,4.0943445622221,9.915910072534686
+mx,Ciudad de México,Chapultepec Morales,alquiler,departamento,16,47500,38875,96250,393.0,139.0,MXN,2026-11-22,False,4.9344739331306915,10.768484990022733
+mx,Ciudad de México,Ciudad de los Deportes,alquiler,departamento,9,22003,20308,24900,314.0,74.0,MXN,2026-11-22,False,4.30406509320417,9.99893408668014
+mx,Ciudad de México,Ciudad De Los Deportes,alquiler,departamento,5,35000,28500,36000,300.0,120.0,MXN,2026-11-22,False,4.787491742782046,10.46310334047155
+mx,Ciudad de México,Ciudad de México,alquiler,departamento,831,26000,16000,50000,259.0,100.0,MXN,2026-11-22,False,4.605170185988092,10.165851817003619
+mx,Ciudad de México,Ciudad De México,alquiler,departamento,19,31000,26250,34500,380.0,80.0,MXN,2026-11-22,False,4.382026634673881,10.341742483467284
+mx,Ciudad de México,Ciudad de México,alquiler,casa,190,45000,27000,93646,172.0,262.0,MXN,2026-11-22,False,5.568344503761097,10.714417768752456
+mx,Ciudad de México,Ciudad Jardín,alquiler,departamento,8,18500,12250,20000,298.0,77.0,MXN,2026-11-22,False,4.343805421853684,9.825526011066415
+mx,Ciudad de México,Clavería,alquiler,departamento,9,20500,17000,22000,217.0,71.0,MXN,2026-11-22,False,4.2626798770413155,9.9281801651265
+mx,Ciudad de México,Colina del Sur,alquiler,departamento,10,16000,15179,17300,201.0,83.0,MXN,2026-11-22,False,4.418840607796598,9.680344001221918
+mx,Ciudad de México,Colina Del Sur,alquiler,departamento,6,17000,16125,18625,170.0,99.0,MXN,2026-11-22,False,4.59511985013459,9.740968623038354
+mx,Ciudad de México,Colonia Anzures,alquiler,departamento,30,32252,26000,40000,311.0,100.0,MXN,2026-11-22,False,4.605170185988092,10.381335335804913
+mx,Ciudad de México,Colonia Anzures,alquiler,casa,19,73000,54500,122500,240.0,295.0,MXN,2026-11-22,False,5.68697535633982,11.198214720130528
+mx,Ciudad de México,Colonia Cuauhtémoc,alquiler,departamento,197,29000,22000,39000,409.0,72.0,MXN,2026-11-22,False,4.276666119016055,10.275051108968611
+mx,Ciudad de México,Colonia Cuauhtémoc,alquiler,casa,14,15510,8125,38750,157.0,134.0,MXN,2026-11-22,False,4.897839799950911,9.649240256170584
+mx,Ciudad de México,Colonia Del Carmen,alquiler,departamento,9,20000,16500,25800,375.0,58.0,MXN,2026-11-22,False,4.060443010546419,9.903487552536127
+mx,Ciudad de México,Colonia Del Carmen,alquiler,casa,7,45000,32750,45000,166.0,242.0,MXN,2026-11-22,False,5.488937726156687,10.714417768752456
+mx,Ciudad de México,Colonia Del Valle,alquiler,departamento,19,31000,22250,32500,308.0,100.0,MXN,2026-11-22,False,4.605170185988092,10.341742483467284
+mx,Ciudad de México,Colonia Del Valle,alquiler,casa,5,60000,46500,92000,257.0,250.0,MXN,2026-11-22,False,5.521460917862246,11.002099841204238
+mx,Ciudad de México,Colonia Irrigación,alquiler,departamento,19,39500,20000,62500,400.0,119.0,MXN,2026-11-22,False,4.77912349311153,10.584055950889214
+mx,Ciudad de México,Colonia Olivar de los Padres,alquiler,departamento,25,22500,19909,26000,283.0,80.0,MXN,2026-11-22,False,4.382026634673881,10.021270588192511
+mx,Ciudad de México,Colonia Olivar de los Padres,alquiler,casa,10,36250,30875,39000,142.0,255.0,MXN,2026-11-22,False,5.541263545158426,10.49819466028282
+mx,Ciudad de México,Colonia Polanco Chapultepec,alquiler,departamento,7,50000,44400,97570,433.0,120.0,MXN,2026-11-22,False,4.787491742782046,10.819778284410283
+mx,Ciudad de México,Colonia Santa Fe Cuajimalpa,alquiler,departamento,5,28500,28000,34628,380.0,75.0,MXN,2026-11-22,False,4.31748811353631,10.257659366256743
+mx,Ciudad de México,Condesa,alquiler,departamento,144,39750,28150,52000,495.0,85.0,MXN,2026-11-22,False,4.442651256490317,10.590365120082478
+mx,Ciudad de México,Condesa,alquiler,casa,11,95000,67500,112500,370.0,290.0,MXN,2026-11-22,False,5.66988092298052,11.461632170582678
+mx,Ciudad de México,Contadero,alquiler,departamento,28,26200,21300,31500,319.0,89.0,MXN,2026-11-22,False,4.48863636973214,10.173514689749188
+mx,Ciudad de México,Cooperativa Palo Alto,alquiler,departamento,5,45000,42500,52943,326.0,138.0,MXN,2026-11-22,False,4.927253685157205,10.714417768752456
+mx,Ciudad de México,Cuajimalpa,alquiler,departamento,37,21000,16000,28000,250.0,79.0,MXN,2026-11-22,False,4.3694478524670215,9.95227771670556
+mx,Ciudad de México,Cuajimalpa,alquiler,casa,13,45000,32000,55000,169.0,220.0,MXN,2026-11-22,False,5.393627546352362,10.714417768752456
+mx,Ciudad de México,Cuauhtémoc,alquiler,departamento,12,29311,18619,42341,473.0,74.0,MXN,2026-11-22,False,4.30406509320417,10.285718151171379
+mx,Ciudad de México,Del Carmen,alquiler,departamento,11,18000,13700,27250,381.0,58.0,MXN,2026-11-22,False,4.060443010546419,9.798127036878302
+mx,Ciudad de México,Del Carmen,alquiler,casa,6,77500,47500,107500,174.0,316.0,MXN,2026-11-22,False,5.755742213586912,11.258033215341438
+mx,Ciudad de México,Del Gas,alquiler,departamento,6,18000,14625,20625,299.0,58.0,MXN,2026-11-22,False,4.060443010546419,9.798127036878302
+mx,Ciudad de México,Del Valle Centro,alquiler,departamento,118,30000,25000,35000,293.0,100.0,MXN,2026-11-22,False,4.605170185988092,10.308952660644293
+mx,Ciudad de México,Del Valle Centro,alquiler,casa,31,79000,66750,132500,277.0,318.0,MXN,2026-11-22,False,5.762051382780177,11.27720313144916
+mx,Ciudad de México,Del Valle Norte,alquiler,departamento,52,27250,22800,36250,321.0,90.0,MXN,2026-11-22,False,4.499809670330265,10.21280880009139
+mx,Ciudad de México,Del Valle Norte,alquiler,casa,9,70000,67600,105000,271.0,263.0,MXN,2026-11-22,False,5.572154032177765,11.156250521031495
+mx,Ciudad de México,Del Valle Sur,alquiler,departamento,36,30000,28375,35750,271.0,115.0,MXN,2026-11-22,False,4.74493212836325,10.308952660644293
+mx,Ciudad de México,Del Valle Sur,alquiler,casa,10,70000,68500,90000,245.0,305.0,MXN,2026-11-22,False,5.720311776607412,11.156250521031495
+mx,Ciudad de México,Del Valle,alquiler,departamento,13,29199,25000,32450,282.0,110.0,MXN,2026-11-22,False,4.700480365792417,10.281889741094604
+mx,Ciudad de México,Doctores,alquiler,departamento,44,22425,15875,27863,324.0,65.0,MXN,2026-11-22,False,4.174387269895637,10.017931686926996
+mx,Ciudad de México,El Yaqui,alquiler,departamento,30,35500,29625,39750,326.0,104.0,MXN,2026-11-22,False,4.6443908991413725,10.477287975463508
+mx,Ciudad de México,Escandón I Sección,alquiler,departamento,16,19950,17875,26000,355.0,69.0,MXN,2026-11-22,False,4.23410650459726,9.90098442231801
+mx,Ciudad de México,Escandón II Sección,alquiler,departamento,8,32250,23125,35250,354.0,80.0,MXN,2026-11-22,False,4.382026634673881,10.381273322223919
+mx,Ciudad de México,Escandón,alquiler,departamento,28,20000,14275,28820,337.0,51.0,MXN,2026-11-22,False,3.9318256327243257,9.903487552536127
+mx,Ciudad de México,Ex-Ejido de Santa Úrsula Coapa,alquiler,departamento,10,17000,9050,19500,223.0,94.0,MXN,2026-11-22,False,4.543294782270004,9.740968623038354
+mx,Ciudad de México,Extremadura Insurgentes,alquiler,departamento,5,34000,32000,38000,280.0,126.0,MXN,2026-11-22,False,4.836281906951478,10.4341158035983
+mx,Ciudad de México,Florida,alquiler,departamento,6,20500,18875,24000,328.0,68.0,MXN,2026-11-22,False,4.219507705176107,9.9281801651265
+mx,Ciudad de México,Florida,alquiler,casa,10,90000,82750,148750,288.0,404.0,MXN,2026-11-22,False,6.0014148779611505,11.407564949312402
+mx,Ciudad de México,Fuentes del Pedregal,alquiler,departamento,5,50000,36000,75000,326.0,173.0,MXN,2026-11-22,False,5.153291594497779,10.819778284410283
+mx,Ciudad de México,Fuentes del Pedregal,alquiler,casa,9,75000,72500,110000,181.0,400.0,MXN,2026-11-22,False,5.991464547107982,11.225243392518447
+mx,Ciudad de México,General Pedro Maria Anaya,alquiler,departamento,11,24000,18250,28500,274.0,90.0,MXN,2026-11-22,False,4.499809670330265,10.085809109330082
+mx,Ciudad de México,Granada,alquiler,departamento,170,42000,35000,60000,467.0,105.0,MXN,2026-11-22,False,4.653960350157523,10.645424897265505
+mx,Ciudad de México,Granjas México,alquiler,departamento,7,13340,12500,14775,248.0,50.0,MXN,2026-11-22,False,3.912023005428146,9.498522319469615
+mx,Ciudad de México,Granjas Palo Alto,alquiler,departamento,15,42500,26235,47500,352.0,126.0,MXN,2026-11-22,False,4.836281906951478,10.657259354912508
+mx,Ciudad de México,Guadalupe Inn,alquiler,departamento,12,19500,18750,40250,431.0,52.0,MXN,2026-11-22,False,3.9512437185814275,9.878169744551839
+mx,Ciudad de México,Guadalupe Inn,alquiler,casa,6,80000,76250,102500,223.0,385.0,MXN,2026-11-22,False,5.953243334287785,11.289781913656018
+mx,Ciudad de México,Guadalupe Tepeyac,alquiler,departamento,5,16000,14000,16500,266.0,56.0,MXN,2026-11-22,False,4.02535169073515,9.680344001221918
+mx,Ciudad de México,Guerrero,alquiler,departamento,20,16250,13625,19500,334.0,56.0,MXN,2026-11-22,False,4.02535169073515,9.695848187757884
+mx,Ciudad de México,Héroes De Padierna,alquiler,casa,6,44250,37125,52500,148.0,304.0,MXN,2026-11-22,False,5.717027701406222,10.697610650436076
+mx,Ciudad de México,Hipodromo Condesa,alquiler,departamento,33,42000,31280,53800,457.0,95.0,MXN,2026-11-22,False,4.553876891600541,10.645424897265505
+mx,Ciudad de México,Hipódromo Condesa,alquiler,departamento,65,39000,29000,55000,445.0,92.0,MXN,2026-11-22,False,4.5217885770490405,10.571316925111784
+mx,Ciudad de México,Hipódromo,alquiler,departamento,52,49500,37450,61000,440.0,105.0,MXN,2026-11-22,False,4.653960350157523,10.809727948556782
+mx,Ciudad de México,Independencia,alquiler,departamento,8,24500,22250,27000,279.0,76.0,MXN,2026-11-22,False,4.330733340286331,10.106428396532818
+mx,Ciudad de México,Insurgentes Cuicuilco,alquiler,departamento,10,26000,20125,35375,241.0,106.0,MXN,2026-11-22,False,4.663439094112067,10.165851817003619
+mx,Ciudad de México,Insurgentes Mixcoac,alquiler,departamento,23,29000,21250,34000,319.0,85.0,MXN,2026-11-22,False,4.442651256490317,10.275051108968611
+mx,Ciudad de México,Insurgentes San Borja,alquiler,casa,5,130000,130000,130000,406.0,320.0,MXN,2026-11-22,True,5.768320995793772,11.77528972943772
+mx,Ciudad de México,Irrigación,alquiler,departamento,14,46250,41250,56250,367.0,123.0,MXN,2026-11-22,False,4.812184355372417,10.741816742940571
+mx,Ciudad de México,Jardín Balbuena,alquiler,departamento,8,16250,14000,18750,231.0,73.0,MXN,2026-11-22,False,4.290459441148391,9.695848187757884
+mx,Ciudad de México,Jardines del Pedregal,alquiler,departamento,23,33000,26502,45000,345.0,106.0,MXN,2026-11-22,False,4.663439094112067,10.404262840448617
+mx,Ciudad de México,Jardines Del Pedregal,alquiler,departamento,12,47985,31500,60000,344.0,118.0,MXN,2026-11-22,False,4.770684624465665,10.778643741051727
+mx,Ciudad de México,Jardines del Pedregal,alquiler,casa,10,157500,121250,176250,287.0,559.0,MXN,2026-11-22,True,6.326149473155099,11.967180737247824
+mx,Ciudad de México,Jardines Del Pedregal,alquiler,casa,24,120000,90000,166250,214.0,564.0,MXN,2026-11-22,True,6.335054251498059,11.695247021764184
+mx,Ciudad de México,Jardines En La Montaña,alquiler,departamento,10,75000,46250,112500,292.0,293.0,MXN,2026-11-22,False,5.680172609017068,11.225243392518447
+mx,Ciudad de México,Jardines En La Montaña,alquiler,casa,22,112500,97250,128750,195.0,500.0,MXN,2026-11-22,True,6.214608098422191,11.630708500626612
+mx,Ciudad de México,Juárez,alquiler,departamento,284,34500,26000,45000,533.0,65.0,MXN,2026-11-22,False,4.174387269895637,10.448714603019452
+mx,Ciudad de México,La Rosita,alquiler,departamento,5,23000,18500,68000,271.0,85.0,MXN,2026-11-22,False,4.442651256490317,10.043249494911286
+mx,Ciudad de México,Las Aguilas,alquiler,departamento,5,47000,31000,50000,375.0,160.0,MXN,2026-11-22,False,5.075173815233827,10.757902880692196
+mx,Ciudad de México,Las Águilas,alquiler,departamento,6,16750,16500,30500,263.0,105.0,MXN,2026-11-22,False,4.653960350157523,9.726153537253213
+mx,Ciudad de México,Las Águilas,alquiler,casa,6,63750,51875,86500,166.0,378.0,MXN,2026-11-22,False,5.934894195619588,11.062724463020672
+mx,Ciudad de México,Letran Valle,alquiler,departamento,7,24000,13000,25325,291.0,77.0,MXN,2026-11-22,False,4.343805421853684,10.085809109330082
+mx,Ciudad de México,Letrán Valle,alquiler,departamento,12,24000,18000,31250,294.0,98.0,MXN,2026-11-22,False,4.584967478670572,10.085809109330082
+mx,Ciudad de México,Lindavista Norte,alquiler,casa,5,50000,36000,58000,129.0,380.0,MXN,2026-11-22,False,5.940171252720432,10.819778284410283
+mx,Ciudad de México,Lomas Altas,alquiler,departamento,14,79000,32500,127815,256.0,335.0,MXN,2026-11-22,False,5.814130531825066,11.27720313144916
+mx,Ciudad de México,Lomas de Bezares,alquiler,departamento,10,56710,40500,71500,259.0,246.0,MXN,2026-11-22,False,5.5053315359323625,10.945705841008074
+mx,Ciudad de México,Lomas De Bezares,alquiler,departamento,9,65000,40000,85000,274.0,261.0,MXN,2026-11-22,False,5.564520407322694,11.082142548877775
+mx,Ciudad de México,Lomas de Bezares,alquiler,casa,6,85500,56250,129000,231.0,470.0,MXN,2026-11-22,False,6.152732694704104,11.356271654924852
+mx,Ciudad de México,Lomas de Chapultepec I Sección,alquiler,departamento,10,87500,41500,107500,304.0,230.0,MXN,2026-11-22,False,5.438079308923196,11.379394072345706
+mx,Ciudad de México,Lomas De Chapultepec I Sección,alquiler,departamento,5,50000,22000,63000,192.0,260.0,MXN,2026-11-22,False,5.560681631015528,10.819778284410283
+mx,Ciudad de México,Lomas De Chapultepec III Sección,alquiler,departamento,7,100000,88000,119500,363.0,270.0,MXN,2026-11-22,False,5.598421958998375,11.512925464970229
+mx,Ciudad de México,Lomas de Chapultepec,alquiler,departamento,79,60000,37250,99732,284.0,250.0,MXN,2026-11-22,False,5.521460917862246,11.002099841204238
+mx,Ciudad de México,Lomas De Chapultepec,alquiler,departamento,25,75000,58000,110000,292.0,300.0,MXN,2026-11-22,False,5.703782474656201,11.225243392518447
+mx,Ciudad de México,Lomas de Chapultepec,alquiler,casa,36,188500,100000,300000,323.0,600.0,MXN,2026-11-22,True,6.396929655216146,12.146853285870202
+mx,Ciudad de México,Lomas De Chapultepec,alquiler,casa,21,210000,195000,250000,304.0,750.0,MXN,2026-11-22,True,6.620073206530356,12.254862809699606
+mx,Ciudad de México,Lomas de los Angeles del Pueblo Tetelpan,alquiler,departamento,5,29000,12000,32000,185.0,157.0,MXN,2026-11-22,False,5.056245805348308,10.275051108968611
+mx,Ciudad de México,Lomas de Reforma,alquiler,departamento,11,20000,20000,36000,248.0,85.0,MXN,2026-11-22,False,4.442651256490317,9.903487552536127
+mx,Ciudad de México,Lomas de Santa Fe,alquiler,departamento,33,32000,26000,36500,354.0,88.0,MXN,2026-11-22,False,4.477336814478207,10.373491181781864
+mx,Ciudad de México,Lomas De Santa Fe,alquiler,departamento,7,72500,61250,95000,279.0,270.0,MXN,2026-11-22,False,5.598421958998375,11.191341840842766
+mx,Ciudad de México,Lomas de Sotelo,alquiler,departamento,17,21800,19076,29501,444.0,52.0,MXN,2026-11-22,False,3.9512437185814275,9.98966524877718
+mx,Ciudad de México,Lomas De Sotelo,alquiler,departamento,30,21150,17500,23339,462.0,48.0,MXN,2026-11-22,False,3.871201010907891,9.959395184474424
+mx,Ciudad de México,Lomas de Tarango,alquiler,departamento,9,24500,18000,32000,232.0,72.0,MXN,2026-11-22,False,4.276666119016055,10.106428396532818
+mx,Ciudad de México,Lomas de Tarango,alquiler,casa,6,41000,38500,51750,174.0,250.0,MXN,2026-11-22,False,5.521460917862246,10.621327345686446
+mx,Ciudad de México,Lomas De Vista Hermosa,alquiler,departamento,11,62000,30000,102450,321.0,209.0,MXN,2026-11-22,False,5.342334251964811,11.03488966402723
+mx,Ciudad de México,Lomas De Vista Hermosa,alquiler,casa,6,82500,54450,180000,161.0,578.0,MXN,2026-11-22,False,6.359573868672378,11.320553572322773
+mx,Ciudad de México,Lomas Del Chamizal,alquiler,departamento,36,89500,31250,130000,331.0,262.0,MXN,2026-11-22,False,5.568344503761097,11.401993904262946
+mx,Ciudad de México,Lomas del Pedregal Framboyanes,alquiler,departamento,8,72000,59000,76250,300.0,199.0,MXN,2026-11-22,False,5.293304824724492,11.184421397998193
+mx,Ciudad de México,Lomas Quebradas,alquiler,casa,9,55000,37000,90000,171.0,362.0,MXN,2026-11-22,False,5.8916442118257715,10.915088464214607
+mx,Ciudad de México,Los Alpes,alquiler,departamento,60,28000,23425,33250,326.0,85.0,MXN,2026-11-22,False,4.442651256490317,10.239959789157341
+mx,Ciudad de México,Los Alpes,alquiler,casa,5,52800,35000,75000,164.0,270.0,MXN,2026-11-22,False,5.598421958998375,10.874266469694353
+mx,Ciudad de México,Los Reyes,alquiler,departamento,8,16250,14188,19000,229.0,72.0,MXN,2026-11-22,False,4.276666119016055,9.695848187757884
+mx,Ciudad de México,Merced Gómez,alquiler,departamento,15,25500,18000,31400,314.0,70.0,MXN,2026-11-22,False,4.248495242049359,10.146433731146518
+mx,Ciudad de México,Miguel Hidalgo,alquiler,departamento,7,12900,8750,16250,206.0,80.0,MXN,2026-11-22,False,4.382026634673881,9.464982590349763
+mx,Ciudad de México,Mixcoac,alquiler,departamento,14,23750,18500,28425,285.0,80.0,MXN,2026-11-22,False,4.382026634673881,10.075337809462788
+mx,Ciudad de México,Moctezuma 2a Seccion,alquiler,departamento,8,14500,10625,16225,235.0,58.0,MXN,2026-11-22,False,4.060443010546419,9.581903928408666
+mx,Ciudad de México,Moderna,alquiler,departamento,7,17500,16350,19250,285.0,65.0,MXN,2026-11-22,False,4.174387269895637,9.769956159911606
+mx,Ciudad de México,Morelos,alquiler,departamento,5,14150,12500,17000,233.0,58.0,MXN,2026-11-22,False,4.060443010546419,9.557469903071384
+mx,Ciudad de México,Nápoles,alquiler,departamento,141,28150,24100,35000,387.0,72.0,MXN,2026-11-22,False,4.276666119016055,10.245302633567837
+mx,Ciudad de México,Narvarte Oriente,alquiler,departamento,38,25001,20125,28375,319.0,75.0,MXN,2026-11-22,False,4.31748811353631,10.12667110305036
+mx,Ciudad de México,Narvarte Oriente,alquiler,casa,5,80000,75000,82000,182.0,370.0,MXN,2026-11-22,False,5.91350300563827,11.289781913656018
+mx,Ciudad de México,Narvarte Poniente,alquiler,departamento,69,29000,24500,32500,295.0,97.0,MXN,2026-11-22,False,4.574710978503383,10.275051108968611
+mx,Ciudad de México,Narvarte Poniente,alquiler,casa,15,60000,46000,112500,184.0,350.0,MXN,2026-11-22,False,5.857933154483459,11.002099841204238
+mx,Ciudad de México,Narvarte,alquiler,departamento,14,29500,25125,30525,288.0,95.0,MXN,2026-11-22,False,4.553876891600541,10.292145542327912
+mx,Ciudad de México,Nochebuena,alquiler,departamento,10,38650,21000,41200,325.0,120.0,MXN,2026-11-22,False,4.787491742782046,10.562302054015568
+mx,Ciudad de México,Nonoalco Tlatelolco,alquiler,departamento,8,15750,11625,20625,210.0,67.0,MXN,2026-11-22,False,4.204692619390966,9.66459564425378
+mx,Ciudad de México,Nueva Santa María,alquiler,departamento,6,19750,18750,21125,259.0,80.0,MXN,2026-11-22,False,4.382026634673881,9.890908770329268
+mx,Ciudad de México,Obrera,alquiler,departamento,10,15350,10751,18700,232.0,66.0,MXN,2026-11-22,False,4.189654742026425,9.638870753015343
+mx,Ciudad de México,Olímpica,alquiler,departamento,6,31250,24500,37625,266.0,111.0,MXN,2026-11-22,False,4.709530201312334,10.349774655164548
+mx,Ciudad de México,Olivar De Los Padres,alquiler,departamento,12,29000,26750,32750,260.0,123.0,MXN,2026-11-22,False,4.812184355372417,10.275051108968611
+mx,Ciudad de México,Olivar De Los Padres,alquiler,casa,12,42000,32975,57125,172.0,222.0,MXN,2026-11-22,False,5.402677381872279,10.645424897265505
+mx,Ciudad de México,Otros,alquiler,departamento,7,25000,23000,31000,368.0,75.0,MXN,2026-11-22,False,4.31748811353631,10.126631103850338
+mx,Ciudad de México,Parque del Pedregal,alquiler,departamento,8,42500,32750,54500,184.0,189.0,MXN,2026-11-22,False,5.241747015059643,10.657259354912508
+mx,Ciudad de México,Parque San Andrés,alquiler,departamento,9,20000,20000,27000,300.0,90.0,MXN,2026-11-22,False,4.499809670330265,9.903487552536127
+mx,Ciudad de México,Paseo De Las Lomas,alquiler,departamento,6,33450,27000,33975,294.0,88.0,MXN,2026-11-22,False,4.477336814478207,10.417807065556374
+mx,Ciudad de México,Paseos de Taxqueña,alquiler,departamento,7,16000,10750,26250,214.0,60.0,MXN,2026-11-22,False,4.0943445622221,9.680344001221918
+mx,Ciudad de México,Pedregal de Carrasco,alquiler,departamento,13,27500,22500,35000,292.0,109.0,MXN,2026-11-22,False,4.6913478822291435,10.221941283654663
+mx,Ciudad de México,Pedregal De Carrasco,alquiler,departamento,14,35500,34000,37625,353.0,100.0,MXN,2026-11-22,False,4.605170185988092,10.477287975463508
+mx,Ciudad de México,Pedregal de Santa Úrsula Xitla,alquiler,departamento,5,24000,12500,27000,185.0,130.0,MXN,2026-11-22,False,4.867534450455582,10.085809109330082
+mx,Ciudad de México,Pensil Norte,alquiler,departamento,13,13900,12000,14700,272.0,47.0,MXN,2026-11-22,False,3.8501476017100584,9.539644119118783
+mx,Ciudad de México,Periodista,alquiler,departamento,36,22517,20004,30065,412.0,58.0,MXN,2026-11-22,False,4.060443010546419,10.02202585845966
+mx,Ciudad de México,Piedad Narvarte,alquiler,departamento,7,23000,20000,26950,250.0,83.0,MXN,2026-11-22,False,4.418840607796598,10.043249494911286
+mx,Ciudad de México,Polanco I Sección,alquiler,departamento,218,55000,35000,75013,325.0,164.0,MXN,2026-11-22,False,5.099866427824199,10.915088464214607
+mx,Ciudad de México,Polanco I Sección,alquiler,casa,9,130000,125000,190000,324.0,434.0,MXN,2026-11-22,True,6.073044534100405,11.77528972943772
+mx,Ciudad de México,Polanco III Sección,alquiler,departamento,97,85000,65000,100000,378.0,228.0,MXN,2026-11-22,False,5.429345628954441,11.350406535472453
+mx,Ciudad de México,Polanco III Sección,alquiler,casa,19,198000,122500,250000,427.0,326.0,MXN,2026-11-22,True,5.786897381366708,12.196022309676673
+mx,Ciudad de México,Polanco IV Sección,alquiler,departamento,299,79000,57500,102252,410.0,200.0,MXN,2026-11-22,False,5.298317366548036,11.27720313144916
+mx,Ciudad de México,Polanco IV Sección,alquiler,casa,18,235000,120000,295000,419.0,450.0,MXN,2026-11-22,True,6.1092475827643655,12.367340793126296
+mx,Ciudad de México,Polanco V Sección,alquiler,departamento,130,75000,60000,97250,389.0,198.0,MXN,2026-11-22,False,5.288267030694535,11.225243392518447
+mx,Ciudad de México,Polanco V Sección,alquiler,casa,8,150000,131250,201935,336.0,400.0,MXN,2026-11-22,True,5.991464547107982,11.918390573078392
+mx,Ciudad de México,Polanco,alquiler,departamento,147,70000,47250,95000,442.0,170.0,MXN,2026-11-22,False,5.135798437050262,11.156250521031495
+mx,Ciudad de México,Polanco,alquiler,casa,33,133000,110000,200000,369.0,378.0,MXN,2026-11-22,True,5.934894195619588,11.79810440720389
+mx,Ciudad de México,Popotla,alquiler,departamento,8,12350,9425,15850,261.0,52.0,MXN,2026-11-22,False,3.9512437185814275,9.421411342056123
+mx,Ciudad de México,Portales Norte,alquiler,departamento,18,19500,16750,23750,273.0,74.0,MXN,2026-11-22,False,4.30406509320417,9.878169744551839
+mx,Ciudad de México,Portales Oriente,alquiler,departamento,5,24000,23000,25000,256.0,83.0,MXN,2026-11-22,False,4.418840607796598,10.085809109330082
+mx,Ciudad de México,Portales Sur,alquiler,departamento,21,22000,17500,29000,269.0,79.0,MXN,2026-11-22,False,4.3694478524670215,9.998797732340453
+mx,Ciudad de México,Progreso Tizapan,alquiler,departamento,14,27000,17925,40000,260.0,116.0,MXN,2026-11-22,False,4.7535901911063645,10.203592144986466
+mx,Ciudad de México,Reforma Social,alquiler,departamento,22,25250,24000,31500,316.0,82.0,MXN,2026-11-22,False,4.406719247264253,10.136581434703507
+mx,Ciudad de México,Reforma Social,alquiler,casa,5,50000,50000,51000,220.0,236.0,MXN,2026-11-22,False,5.4638318050256105,10.819778284410283
+mx,Ciudad de México,Roma Norte,alquiler,departamento,297,35000,27000,47000,475.0,75.0,MXN,2026-11-22,False,4.31748811353631,10.46310334047155
+mx,Ciudad de México,Roma Norte,alquiler,casa,20,100000,72250,221550,389.0,230.0,MXN,2026-11-22,False,5.438079308923196,11.512925464970229
+mx,Ciudad de México,Roma Sur,alquiler,departamento,139,29900,23500,36700,462.0,65.0,MXN,2026-11-22,False,4.174387269895637,10.305613759378778
+mx,Ciudad de México,Roma Sur,alquiler,casa,9,60000,39000,98000,232.0,180.0,MXN,2026-11-22,False,5.19295685089021,11.002099841204238
+mx,Ciudad de México,San Andrés Totoltepec,alquiler,departamento,7,8800,8500,9250,131.0,75.0,MXN,2026-11-22,False,4.31748811353631,9.082507000466299
+mx,Ciudad de México,San Andrés Totoltepec,alquiler,casa,10,40000,38375,62500,114.0,336.0,MXN,2026-11-22,False,5.817111159963204,10.596634733096073
+mx,Ciudad de México,San Angel Inn,alquiler,casa,14,100000,66250,171375,231.0,495.0,MXN,2026-11-22,False,6.20455776256869,11.512925464970229
+mx,Ciudad de México,San Angel,alquiler,departamento,18,26000,19250,35000,297.0,91.0,MXN,2026-11-22,False,4.51085950651685,10.165851817003619
+mx,Ciudad de México,San Angel,alquiler,casa,15,95000,73500,170000,253.0,380.0,MXN,2026-11-22,False,5.940171252720432,11.461632170582678
+mx,Ciudad de México,San Bartolo Ameyalco,alquiler,departamento,6,17700,12875,19975,149.0,125.0,MXN,2026-11-22,False,4.8283137373023015,9.78131991856192
+mx,Ciudad de México,San Bartolo Ameyalco,alquiler,casa,12,108950,23500,199000,156.0,500.0,MXN,2026-11-22,True,6.214608098422191,11.598644340372767
+mx,Ciudad de México,San Diego Churubusco,alquiler,departamento,5,22500,16000,30000,231.0,90.0,MXN,2026-11-22,False,4.499809670330265,10.021270588192511
+mx,Ciudad de México,San Jerónimo Aculco,alquiler,departamento,14,28500,25000,30000,273.0,103.0,MXN,2026-11-22,False,4.634728988229636,10.257659366256743
+mx,Ciudad de México,San Jerónimo Lídice,alquiler,departamento,9,25000,22000,29500,239.0,122.0,MXN,2026-11-22,False,4.804021044733257,10.126631103850338
+mx,Ciudad de México,San Jerónimo Lídice,alquiler,casa,16,46500,35000,81250,168.0,306.0,MXN,2026-11-22,False,5.723585101952381,10.747207591575448
+mx,Ciudad de México,San José Insurgentes,alquiler,departamento,29,28500,25000,35009,299.0,85.0,MXN,2026-11-22,False,4.442651256490317,10.257659366256743
+mx,Ciudad de México,San Juan,alquiler,departamento,9,27500,24900,34000,324.0,102.0,MXN,2026-11-22,False,4.624972813284271,10.221941283654663
+mx,Ciudad de México,San Mateo Tlaltenango,alquiler,departamento,7,85000,47500,115000,354.0,240.0,MXN,2026-11-22,False,5.480638923341991,11.350406535472453
+mx,Ciudad de México,San Miguel Chapultepec I Sección,alquiler,departamento,5,25000,22000,30000,343.0,90.0,MXN,2026-11-22,False,4.499809670330265,10.126631103850338
+mx,Ciudad de México,San Miguel Chapultepec,alquiler,departamento,25,28500,25000,46000,351.0,90.0,MXN,2026-11-22,False,4.499809670330265,10.257659366256743
+mx,Ciudad de México,San Miguel Chapultepec,alquiler,casa,8,75000,70001,98375,316.0,257.0,MXN,2026-11-22,False,5.54907608489522,11.225243392518447
+mx,Ciudad de México,San Nicolás Totolapan,alquiler,casa,7,42500,31000,60000,174.0,319.0,MXN,2026-11-22,False,5.765191102784844,10.657259354912508
+mx,Ciudad de México,San Pedro de los Pinos,alquiler,departamento,31,23000,17900,27750,313.0,70.0,MXN,2026-11-22,False,4.248495242049359,10.043249494911286
+mx,Ciudad de México,San Pedro De Los Pinos,alquiler,departamento,44,19250,16368,24000,386.0,54.0,MXN,2026-11-22,False,3.9889840465642745,9.86526633971593
+mx,Ciudad de México,San Pedro Xalpa,alquiler,departamento,6,15400,10875,22700,200.0,70.0,MXN,2026-11-22,False,4.248495242049359,9.642122788401721
+mx,Ciudad de México,San Rafael,alquiler,departamento,74,25750,20575,34750,481.0,62.0,MXN,2026-11-22,False,4.127134385045092,10.156189906091882
+mx,Ciudad de México,San Rafael,alquiler,casa,8,135000,31399,215000,405.0,420.0,MXN,2026-11-22,True,6.040254711277414,11.813030057420567
+mx,Ciudad de México,Santa Cruz Atoyac,alquiler,departamento,24,29550,25000,34475,377.0,81.0,MXN,2026-11-22,False,4.394449154672439,10.293839022834245
+mx,Ciudad de México,Santa Fe Cuajimalpa,alquiler,departamento,97,42000,29500,65000,367.0,140.0,MXN,2026-11-22,False,4.941642422609304,10.645424897265505
+mx,Ciudad de México,Santa Fe La Loma,alquiler,departamento,16,57000,38125,87500,296.0,140.0,MXN,2026-11-22,False,4.941642422609304,10.950806546816688
+mx,Ciudad de México,Santa Fe,alquiler,departamento,122,32000,24925,40000,288.0,110.0,MXN,2026-11-22,False,4.700480365792417,10.373491181781864
+mx,Ciudad de México,Santa María la Ribera,alquiler,departamento,10,19125,16250,20700,280.0,62.0,MXN,2026-11-22,False,4.127134385045092,9.858751658694736
+mx,Ciudad de México,Santa María La Ribera,alquiler,departamento,30,20000,18000,21950,364.0,54.0,MXN,2026-11-22,False,3.9889840465642745,9.903487552536127
+mx,Ciudad de México,Santa Maria Nonoalco,alquiler,departamento,12,23250,21975,25250,317.0,75.0,MXN,2026-11-22,False,4.31748811353631,10.054060411015502
+mx,Ciudad de México,Santa María Tepepan,alquiler,casa,5,26000,24000,35000,160.0,164.0,MXN,2026-11-22,False,5.099866427824199,10.165851817003619
+mx,Ciudad de México,Santa Rosa Xochiac,alquiler,casa,10,42500,21750,139750,69.0,400.0,MXN,2026-11-22,False,5.991464547107982,10.657259354912508
+mx,Ciudad de México,Sector Popular,alquiler,departamento,5,11000,9000,14000,200.0,60.0,MXN,2026-11-22,False,4.0943445622221,9.305650551780507
+mx,Ciudad de México,Tabacalera,alquiler,departamento,98,33750,25538,40000,466.0,72.0,MXN,2026-11-22,False,4.276666119016055,10.426735696300677
+mx,Ciudad de México,Tacuba,alquiler,departamento,6,16500,16500,23625,316.0,72.0,MXN,2026-11-22,False,4.276666119016055,9.711115659888671
+mx,Ciudad de México,Tacubaya,alquiler,departamento,9,18400,15000,19000,331.0,56.0,MXN,2026-11-22,False,4.02535169073515,9.820105943597078
+mx,Ciudad de México,Tetelpan,alquiler,departamento,18,24750,17750,28875,191.0,119.0,MXN,2026-11-22,False,4.77912349311153,10.116580767996837
+mx,Ciudad de México,Tetelpan,alquiler,casa,7,40000,31000,43000,150.0,290.0,MXN,2026-11-22,False,5.66988092298052,10.596634733096073
+mx,Ciudad de México,Tizapan,alquiler,departamento,14,36000,19000,51250,305.0,134.0,MXN,2026-11-22,False,4.897839799950911,10.491274217438248
+mx,Ciudad de México,Tizapán,alquiler,departamento,5,33000,32000,33500,269.0,119.0,MXN,2026-11-22,False,4.77912349311153,10.404262840448617
+mx,Ciudad de México,Tlalpan Centro,alquiler,departamento,12,22250,14125,25500,500.0,50.0,MXN,2026-11-22,False,3.912023005428146,10.010097287594386
+mx,Ciudad de México,Tlalpan Centro,alquiler,casa,8,43500,28000,125000,175.0,211.0,MXN,2026-11-22,False,5.351858133476067,10.680516217076775
+mx,Ciudad de México,Tlalpuente,alquiler,casa,5,54684,40000,59900,156.0,350.0,MXN,2026-11-22,False,5.857933154483459,10.909326441051883
+mx,Ciudad de México,Toriello Guerra,alquiler,departamento,7,17800,15950,19450,331.0,60.0,MXN,2026-11-22,False,4.0943445622221,9.786953736280177
+mx,Ciudad de México,Toriello Guerra,alquiler,casa,9,48000,39000,50000,144.0,410.0,MXN,2026-11-22,False,6.016157159698354,10.778956289890028
+mx,Ciudad de México,Valle Gómez,alquiler,departamento,6,13500,13000,14000,233.0,56.0,MXN,2026-11-22,False,4.02535169073515,9.51044496442652
+mx,Ciudad de México,Veronica Anzures,alquiler,departamento,19,31500,20500,37510,343.0,84.0,MXN,2026-11-22,False,4.430816798843313,10.357742824813725
+mx,Ciudad de México,Verónica Anzures,alquiler,departamento,9,30000,25000,32000,354.0,83.0,MXN,2026-11-22,False,4.418840607796598,10.308952660644293
+mx,Ciudad de México,Viejo Ejido De Santa Ursula Coapa,alquiler,departamento,5,8850,8200,10000,233.0,38.0,MXN,2026-11-22,False,3.6375861597263857,9.088172738001974
+mx,Ciudad de México,Villa Coapa,alquiler,departamento,6,14000,13625,16625,207.0,73.0,MXN,2026-11-22,False,4.290459441148391,9.546812608597396
+mx,Ciudad de México,Villa Verdún,alquiler,departamento,8,25000,17750,30625,212.0,133.0,MXN,2026-11-22,False,4.890349128221754,10.126631103850338
+mx,Ciudad de México,Villa Verdún,alquiler,casa,6,36650,24250,64575,171.0,250.0,MXN,2026-11-22,False,5.521460917862246,10.509168707314798
+mx,Ciudad de México,Xoco,alquiler,departamento,55,36000,32000,45250,381.0,91.0,MXN,2026-11-22,False,4.51085950651685,10.491274217438248
+mx,Ciudad de México,Zona Centro,alquiler,departamento,5,22000,17800,22500,409.0,55.0,MXN,2026-11-22,False,4.007333185232471,9.998797732340453
